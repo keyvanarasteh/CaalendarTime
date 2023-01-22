@@ -1,16 +1,8 @@
 # 211216065-Taner-Can-Aydemir
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Proje dosyası ve proje görünüm resimleri*
+![Main](https://github.com/keyvanarasteh/CaalendarTime/blob/main/211216065-Taner-Can-Aydemir/assets/main.PNG)
+<br/>
+![Detay1](https://github.com/keyvanarasteh/CaalendarTime/blob/main/211216065-Taner-Can-Aydemir/assets/detay1.PNG)
+![Detay2](https://github.com/keyvanarasteh/CaalendarTime/blob/main/211216065-Taner-Can-Aydemir/assets/detay2.PNG)
+![Detay3](https://github.com/keyvanarasteh/CaalendarTime/blob/main/211216065-Taner-Can-Aydemir/assets/detay3.PNG)
